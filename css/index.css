@@ -1,0 +1,11 @@
+@import url('./header.css');
+@import url('./banner.css');
+@import url('./contact.css');
+@import url('./social.css');
+@import url('./copyright.css');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}

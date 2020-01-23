@@ -1,0 +1,11 @@
+.copyright {
+    width: 100%;
+    height: 40px;
+    background-color: rgb(26, 37, 47);
+    
+}
+.copyline {
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+}
