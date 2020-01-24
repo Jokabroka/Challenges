@@ -1,16 +1,19 @@
-.social {
+.footer {
     width: 100%;
     height: 200px;
     background-color: rgb(44, 62, 80);
-    color: white;
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
-    padding: 20px 35%;
+    padding: 20px 50px;
 }
-.social .linha2 {
-    display: inline;
+.generic {
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+.generic > .local {
+    font-size: 10px;
 }
 .icones-social {
     padding-right: 2px;
